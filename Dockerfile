@@ -1,4 +1,4 @@
-FROM openjdk:11-jre
+FROM java:8-jre-alpine
 
 MAINTAINER Jerome Jiang < Jeromefromcn@gmail.com >
 
